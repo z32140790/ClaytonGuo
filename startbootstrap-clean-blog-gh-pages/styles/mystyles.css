@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headliner {
+    font-size: xx-large;
+    color: rgb(241, 204, 134);
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.table {
+    width: 1200px;
+    height: 1200px;
+}
+
+.footer {
+    grid-row: 4;
+    grid-column: 1/ span 3;
+    color: grey;
+    margin: 0px;
+}
+
+.grid {
+    background-color: rgb(218, 168, 33);
+    border: solid 3px rgb(136, 131, 131);
+    text-align: center;
+    border-radius: 30px;
+}
+
+.centerpic {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%; */
+}
+
+.Cali {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.s{
+    font-family: cursive;
+}
+.s1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.link {
+    color: rgb(245, 183, 67);
+    text-decoration-line: underline;
+}
+
+.yellow {
+    color: rgb(245, 183, 67);
+}
+
+.normal {
+    font-style: normal;
+}
+
+.time {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.small  {
+    font-size: medium;
+}
+
+.italic {
+    font-style:  italic;
+}
+
+.underscore {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
